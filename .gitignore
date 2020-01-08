@@ -1,0 +1,5 @@
+env
+build
+dist
+.vscode
+codeinkit.egg-info
